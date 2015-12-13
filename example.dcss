@@ -1,0 +1,12 @@
+// this is silly css
+
+$fav-color: #111;
+$background-color: #fff;
+$border-color: #ddd;
+
+body
+  color: $fav-color;
+  background-color: $background;
+
+div.box
+  border: 1px solid $border-color;
